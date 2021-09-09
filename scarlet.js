@@ -1,6 +1,6 @@
 /**
  * Scarlet is a voice assistant that is able to integrate
- * with a variety of services and is designed to be open
+ * with a variety of web applications and is designed to be open
  * source for easy integration into other enviornments
  * 
  * @author Isaac Robbins <isaacprobbins@gmail.com>
