@@ -5,6 +5,8 @@
  * 
  * @author Isaac Robbins <isaacprobbins@gmail.com>
  * @class Scarlet
+ * 
+ * @todo rename this to engine.js and have scarlet.js include the responsivevoice.js file first and then load this file in order to have all voices loaded first. This will also allow one file to be imported in the html instead of having two and one not laoding before the other
  */
 
 class Scarlet {
